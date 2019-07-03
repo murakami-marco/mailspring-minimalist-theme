@@ -1,0 +1,12 @@
+{
+  "displayName": "minimalist",
+  "name": "minimalist",
+  "theme": "minimalist",
+  "version": "1.0.0",
+  "description": "A Polymail-inspired theme for Mailspring",
+  "license": "GPL-3.0",
+  "engines": {
+    "mailspring": "*"
+  },
+  "private": true
+}
